@@ -1,0 +1,42 @@
+/* Set the font family for the entire HTML document */
+html {
+    font-family: 'Open Sans', sans-serif; 
+    font-family: 'PT Serif', serif; 
+  }
+  
+  /* Styling for heading level 1 (h1) */
+  h1 {
+    font-size: 60px; 
+    text-align: center; 
+  }
+  
+  /* Styling for paragraphs (p) and list items (li) */
+  p,
+  li {
+    font-size: 16px; 
+    line-height: 2;
+    letter-spacing: 1px; 
+  }
+  
+  /* Set background color for the entire HTML document */
+  html {
+    background-color: #f5f5f5; /* Light gray background color */
+  }
+  
+  /* Styling for the body element */
+  body {
+    width: 600px; 
+    margin: 0 auto; 
+    background-color: #ffc0cb; /* Light Pink color  */
+    padding: 0 20px 20px 20px; 
+    border: 5px solid #ff7b9d; /* Border with a slightly darker pink color */
+  }  
+  
+  /* Additional styling for heading level 1 (h1) within the body */
+  h1 {
+    margin: 0; 
+    padding: 20px 0; 
+    color: #ff7b9d; /* Slightly darker pink color */
+    text-shadow: 3px 3px 1px black; 
+  }
+  
